@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+    <test name="Regression2">
+        <parameter name="browser" value="FIREFOX"></parameter>
+        <classes>
+            <class name="org.selenium.base.MyFirstTest">
+            </class>
+        </classes>
+
+    </test>
+</suite>

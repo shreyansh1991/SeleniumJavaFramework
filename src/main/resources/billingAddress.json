@@ -1,0 +1,41 @@
+[{
+  "firstName": "demo",
+  "lastName": "user",
+  "country": "India",
+  "streetAddress": "Pune",
+  "city": "Pune",
+  "state": "Maharashtra",
+  "postalCode": "411001",
+  "email": "demo@gmail.com"
+},
+{
+  "firstName": "Abhishek",
+  "lastName": "Mishra",
+  "country": "India",
+  "streetAddress": "Pune",
+  "city": "Pune",
+  "state": "Maharashtra",
+  "postalCode": "411001",
+  "email": "askomdch@gmail.com"
+},
+  {
+    "firstName": "Saurabh",
+    "lastName": "Mishra",
+    "country": "India",
+    "streetAddress": "Pune",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "postalCode": "411001",
+    "email": "askomdch@gmail.com"
+  },
+  {
+    "firstName": "Alok",
+    "lastName": "Mishra",
+    "country": "India",
+    "streetAddress": "Pune",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "postalCode": "411001",
+    "email": "askomdch@gmail.com"
+  }
+]
